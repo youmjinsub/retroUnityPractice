@@ -359,6 +359,7 @@
 "Assets/Scripts/EnemySpawner.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Gun.cs"
+"Assets/Scripts/GunData.cs"
 "Assets/Scripts/HealthPack.cs"
 "Assets/Scripts/IDamageable.cs"
 "Assets/Scripts/IItem.cs"
