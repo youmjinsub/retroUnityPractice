@@ -371,6 +371,8 @@
 "Assets/Scripts/PlayerShooter.cs"
 "Assets/Scripts/Rotator.cs"
 "Assets/Scripts/UIManager.cs"
+"Assets/Scripts/Zombie.cs"
+"Assets/Scripts/ZombieData.cs"
 -langversion:9.0
 
 /deterministic
